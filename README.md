@@ -270,6 +270,7 @@ Name           | Address
 [PAPA CARLO](https://tonviewer.com/0:23d7c2a2e2c1b8ec05dbd78368df9167acc341c42dae1dcb887a3243cab77a55) | EQAj18Ki4sG47AXb14No35FnrMNBxC2uHcuIejJDyrd6VXpQ
 [PEPE TON](https://tonviewer.com/0:97cceec78682b97c342e08e344e3797cf90b2b7aae73abcf5954d8449dadb878) | EQCXzO7HhoK5fDQuCONE43l8-Qsreq5zq89ZVNhEna24eK-h
 [PEPE`S TON CLUB](https://tonviewer.com/0:4ffe1859f853d31e7802de70ff01b146c1eed5595498a1f918afdbdb3e4d5e17) | EQBP_hhZ-FPTHngC3nD_AbFGwe7VWVSYofkYr9vbPk1eFwtl
+[PISK](https://tonviewer.com/0:a18825bc86d6627616156fdbd929bc0972de98ef58560392193b7e726eacb49d) | EQChiCW8htZidhYVb9vZKbwJct6Y71hWA5IZO35ybqy0nemh
 [POT](https://tonviewer.com/0:e8ce24adb5067de90251c4744a75ab429b92fd0d12fd2cac9c5dc8e5f113d764) | EQDoziSttQZ96QJRxHRKdatCm5L9DRL9LKycXcjl8RPXZM0N
 [PROTON JETTON](https://tonviewer.com/0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655) | EQDgSR_-4FDlXPfMVefXX1IIXMWBH4YfYV1a_8cJ0XsGVdsf
 [PUGWIFJET](https://tonviewer.com/0:7c4f5ca5ca4b340c51645140b629e165cd7326fb10e3befeb00c34572ebea34c) | EQB8T1ylyks0DFFkUUC2KeFlzXMm-xDjvv6wDDRXLr6jTPRz
